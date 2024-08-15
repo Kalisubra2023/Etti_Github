@@ -1,7 +1,3 @@
-Rappu
-Chinna Sombhu
-Nalla Sombhu
-Ketta Sombhu
-Super Sombhu
-
-Prepare
+One 
+Two 
+Three
