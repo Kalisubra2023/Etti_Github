@@ -3,10 +3,9 @@ Two
 Three
 Four
 Five
-<<<<<<< Updated upstream
 eight
 nine
-=======
 Six
 Seven
->>>>>>> Stashed changes
+eight
+nine
